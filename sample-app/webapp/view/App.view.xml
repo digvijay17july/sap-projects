@@ -1,0 +1,14 @@
+<mvc:View
+  controllerName="sap.ui.demo.todo.controller.App"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+    <App>
+        <pages>
+            <Page title="My SAP UI5 App">
+                <content>
+                    <Text text="Welcome to our sample SAP UI5 app!" />
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>
